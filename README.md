@@ -12,7 +12,7 @@ Traffic congestion is a pervasive problem with significant impacts on various as
 
 ## Results
 
-We evaluated the performance of supervised machine learning algorithms on traffic prediction using the 'Traffic Prediction Dataset.' Our results indicate varying levels of accuracy and computational efficiency among the algorithms tested. The Classification Tree algorithm demonstrated the highest accuracy, followed by Support Vector Machine and Ensemble (RUSBoosted).
+We evaluated the performance of supervised machine learning algorithms on traffic prediction using the 'Traffic Prediction Dataset'. Our results indicate varying levels of accuracy and computational efficiency among the algorithms tested. The Classification Tree algorithm demonstrated the highest accuracy, followed by Support Vector Machine and Ensemble (RUSBoosted).
 
 ## Conclusion
 
